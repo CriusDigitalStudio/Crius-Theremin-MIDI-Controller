@@ -1,5 +1,5 @@
 # Crius-Theremin-MIDI-Controller
-Crius Theremin MIDI Controller is being used as a "Potentiometer" sending Control Change MIDI Messages to your DAW
+Crius Theremin MIDI Controller is being used as a "Theremin" sending NoteOn and NoteOff MIDI Messages to your DAW
 ![Untitled_1 22 1](https://user-images.githubusercontent.com/63908995/170831144-6bba8fdc-3646-4284-92fb-0e9feaeb3bbc.jpg)
 It consists of an Arduino Nano and an HC-SR04 ultrasonic sensor
 ![theremin_bb](https://user-images.githubusercontent.com/63908995/170831189-027f7090-77eb-4a85-9227-9db01a508a14.png)
